@@ -1,0 +1,152 @@
+body
+{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.375rem;
+    color: #66BFBF;
+}
+h2
+{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight:normal;
+    padding-bottom: 10px;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+hr
+{
+  border: dotted #EAF6F6 6px;
+  border-bottom:none;
+  width:4%;
+  margin: 100px auto;
+}
+p
+{
+    line-height: 2;
+}
+.top_container
+{
+  height: 500px;
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle_container
+{
+  margin:100px auto;
+}
+.bottom_container
+{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.top_cloud
+{
+  position: absolute;
+  right: 200px;
+  top:50px;
+}
+.bottom_cloud
+{
+  position: absolute;
+  left: 100px;
+  bottom:200px;
+}
+.code
+{
+  border-radius: 100%;
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.skating
+{
+  border-radius: 100%;
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.cosmetics
+{
+  border-radius: 100%;
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.pro
+{
+  color: #66BFBF;
+  font-weight:normal;
+}
+.my_img
+{
+  width: 25%;
+  border-radius: 100%;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+}
+.skill_row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.contact_msg
+{
+  width: 40%;
+  margin:40px auto 60px;
+}
+.btn {
+	background:linear-gradient(to bottom, #4bcdd1 5%, #1cb3c7 100%);
+	background-color:#4bcdd1;
+	border-radius:14px;
+	border:1px solid #177ca1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:1px 2px 0 #293166;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #1cb3c7 5%, #4bcdd1 100%);
+	background-color:#1cb3c7;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.footer_link
+{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.footer_link:hover
+{
+  color:#E4F9F5;
+}
+.copyright
+{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
